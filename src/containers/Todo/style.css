@@ -1,0 +1,15 @@
+.todoHeader {
+  color: #2b2d42;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.todoNotification {
+  margin-top: 25px;
+  color: #8D99AE;
+}
+
+.clearFinishedJobsBtn {
+  cursor: pointer;
+  color: #F26419;
+}

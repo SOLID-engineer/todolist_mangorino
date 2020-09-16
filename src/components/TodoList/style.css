@@ -1,0 +1,22 @@
+.todoListWrapper {
+  width: 30%;
+  background-color: #E1E7EC;
+  list-style-type: none;
+  padding: 0;
+}
+
+.todoListWrapper li {
+  padding: 30px 20px;
+  font-size: 34px;
+  word-break: break-all;
+  border-bottom: 1px solid #F0F4F6;
+  cursor: pointer;
+}
+
+.todoListWrapper li:last-child {
+  border-bottom: none;
+}
+
+.finishedTodo {
+  text-decoration: line-through;
+}

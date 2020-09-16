@@ -1,0 +1,21 @@
+.todoFilterWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 500px;
+}
+
+.todoFilterBtn {
+  width: 150px;
+  height: 35px;
+  border: none;
+  background-color: #2b2d42;
+  cursor: pointer;
+  color: #FFF;
+}
+
+.active {
+  background-color: #FFE74C;
+  font-weight: bold;
+  color: #2b2d42;
+}
