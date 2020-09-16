@@ -18,10 +18,10 @@ You will also see any lint errors in the console.
 
 ## Technique was used in this repo:
 
-[x] Create-React-App
-[x] ReactJS
-[x] Redux
-[x] React-Redux
-[x] Pure HTML/CSS skill
+✅ Create-React-App <br />
+✅ ReactJS <br />
+✅ Redux <br />
+✅ React-Redux <br />
+✅ Pure HTML/CSS skill <br />
 
 That's it! I hope you enjoy!!!
